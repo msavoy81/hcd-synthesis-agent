@@ -1,0 +1,5 @@
+note_id,speaker_role,session,note_type,team_label_removed,note_text,prep_flags
+D01,Program Director,S1 (example session),paraphrase,,Example only: a short paraphrase of something the program director said.,
+D02,Program Director,S1 (example session),quote,,"""Example only: a word-for-word quote goes here.""",
+11,Instructor B,"S2 (example joint interview)",mixed,,Example only: a note that mixes a short quote with a paraphrase.,
+12,Instructor A,"S2 (example joint interview)",quote,,"""Example only: another quote.""",UNCERTAIN: do not build an insight on this note alone

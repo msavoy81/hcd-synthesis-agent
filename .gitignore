@@ -1,0 +1,9 @@
+# Real research evidence and AI outputs stay private (partner interview data).
+evidence_packet.csv
+runs/
+drafts/
+# Never commit API keys.
+api_key*
+*.rtf
+.env
+__pycache__/
